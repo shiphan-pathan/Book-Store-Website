@@ -136,7 +136,7 @@ const Books = ({ searchQuery }) => {
         );
 
     return (
-        <div name='Books' className='max-w-screen-lg container mx-auto px-4 md:px-20'>
+        <div name='Books' className='max-w-screen-2xl container mx-auto px-4 md:px-20'>
             <h1 className='text-4xl font-bold mb-5 text-center'>Books</h1>
 
             {/* Featured Books */}
